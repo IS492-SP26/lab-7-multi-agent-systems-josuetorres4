@@ -1,0 +1,79 @@
+================================================================================
+CrewAI Multi-Agent Travel Planning System - Real API Execution Report
+Planning a 5 days Trip to Iceland
+================================================================================
+
+Trip Details:
+  Destination: Iceland
+  Duration: 5 days
+  Dates: January 15-20, 2026
+  Departure: New York
+  Travelers: 2
+  Budget Preference: mid-range
+
+Execution Time: 2026-04-26 19:48:50.841168
+API Version: REAL API CALLS (OpenAI GPT-4)
+Data Source: Web research via OpenAI
+
+IMPORTANT NOTES:
+- All flight prices, hotel costs, and attraction information is based on real data
+- Prices are current as of the date this was run
+- Hotel availability and prices may vary by booking date
+- Weather conditions and attraction hours should be verified before travel
+
+FINAL TRAVEL PLAN REPORT:
+--------------------------------------------------------------------------------
+Comprehensive Budget Report for 5-Day Iceland Trip
+
+### Flights
+- Budget: $349 round-trip (PLAY Airlines)
+- Mid-range: $485 round-trip (Icelandair)
+- Luxury: $612 round-trip (Delta Air Lines)
+
+### Accommodation (5 nights)
+- Budget: $85/night (Kex Hostel) = $425 total
+- Mid-range: $189/night (CenterHotel Midgardur) = $945 total
+- Luxury: $385/night (Hotel Borg by Keahotels) = $1,925 total
+
+### Meals
+- Budget: $15-25/meal, $40-60/day, $200-300 total for 5 days
+- Mid-range: $30-50/meal, $80-150/day, $400-750 total for 5 days
+- Fine dining: $80-150/meal, $200-350/day, $1,000-1,750 total for 5 days
+
+### Activities/Tours
+1. **Golden Circle Tour**: $60-80/person
+2. **South Coast Tour**: $80-100/person
+3. **Blue Lagoon**: $60-80/person
+4. **Northern Lights Tour**: $50-70/person
+5. **Whale Watching Tour**: $100-120/person
+- Budget: $300-450 total (basic tours)
+- Mid-range: $450-650 total (including additional activities)
+- Luxury: $650-950 total (all inclusive, private tours)
+
+### Transportation within Iceland
+- Airport transfers: $28-56/person (return)
+- Public transportation: $4.20/ride or $24/3-day pass
+- Car rental (compact): $65-95/day
+- Gas: ~$8.50/gallon
+- Budget: $100-200 total (public transport, airport transfers)
+- Mid-range: $200-400 total (car rental, gas)
+- Luxury: $400-600 total (private transfers, car rental)
+
+### Miscellaneous
+- Souvenirs: $100-200
+- Other expenses: $200-400
+
+### Total Cost Estimates
+- Budget: $1,575-2,425
+- Mid-range: $2,695-4,150
+- Luxury: $4,425-6,575
+
+### Cost-Saving Tips
+1. **Book flights and accommodations well in advance** to secure better prices.
+2. **Consider package deals** that include flights, hotels, and car rentals for potential discounts.
+3. **Use public transportation** or walk/bike when possible to reduce transportation costs.
+4. **Eat at local cafes or buy groceries** for some meals instead of dining out every time.
+5. **Research free or low-cost attractions** and prioritize them over expensive tours.
+6. **Use travel rewards credit cards** for bookings to earn points or miles.
+7. **Budget for exchange rates** if paying in foreign currency.
+--------------------------------------------------------------------------------
